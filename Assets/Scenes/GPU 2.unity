@@ -638,7 +638,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'GPU Visual Effect
+  m_text: 'GPU Visual Effect Large
 
 '
   m_isRightToLeft: 0
